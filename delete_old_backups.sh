@@ -1,2 +1,2 @@
 #!/bin/sh
-find /home/buh/backups/ftp.mybakery.com -mtime +14 -type f -delete
+find /your/path/to/backups/ftp.mybakery.com -mtime +14 -type f -delete
